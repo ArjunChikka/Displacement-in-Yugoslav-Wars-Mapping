@@ -241,7 +241,8 @@ period_timelines = {
 # -----------------------------
 # LOAD DATA
 # -----------------------------
-df = pd.read_csv("C:/Users/user00/Downloads/Yugoslav War Data.csv")
+#df = pd.read_csv("C:/Users/user00/Downloads/Yugoslav War Data.csv")
+df = pd.read_csv("data/Yugoslav_War_Data.csv")
 df.columns = df.columns.str.strip().str.replace(" ", "_")
 
 def parse_displacement(val):
@@ -461,4 +462,7 @@ def update_dashboard(period_key):
 # -----------------------------
 if __name__ == "__main__":
     app.run_server(debug=False, host="0.0.0.0", port=10000)
+
+#if __name__ == "__main__":
+#    app.run(debug=True)
 
