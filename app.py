@@ -86,47 +86,49 @@ period_timelines = {
 
         html.H5("June 25, 1991 — Croatia and Slovenia Declare Independence"),
         html.P(
-            "On June 25, 1991, Croatia and Slovenia officially declared independence from the Socialist Federal Republic of Yugoslavia, sparking immediate tensions. "
-            "While Slovenia fought a short conflict and quickly secured its autonomy, Croatia plunged into a brutal war. "
-            "Ethnic Serb populations within Croatia, armed by the Yugoslav People's Army (JNA) and nationalist paramilitaries, refused to recognize the new Croatian state. "
-            "Skirmishes escalated into full-scale battles as villages across Krajina and Slavonia became engulfed in violence. "
-            "The initial displacements began, with both Croat and Serb civilians fleeing areas of ethnic tension."
+            "On June 25, 1991, Croatia and Slovenia declared independence from the Socialist Federal Republic of Yugoslavia. "
+            "Slovenia’s secession prompted a brief conflict, but its relative ethnic homogeneity allowed for a rapid resolution. "
+            "In Croatia, however, the situation proved far more volatile. Ethnic Serbs, who made up a significant minority within Croatian borders and held longstanding grievances, "
+            "rejected the authority of the new Croatian government. "
+            "Backed by the Yugoslav People’s Army (JNA), Serb militias established self-declared autonomous zones, and by mid-summer, skirmishes had escalated into organized armed resistance. "
+            "The federal government’s inability to resolve internal disputes peacefully marked the beginning of Yugoslavia’s violent dissolution."
         ),
 
         html.H5("July–August 1991 — JNA Intervention and Full-Scale War"),
         html.P(
-            "During the summer months of 1991, the Yugoslav People's Army launched a coordinated intervention across Croatian territory. "
-            "Cities such as Osijek, Dubrovnik, and Karlovac faced heavy artillery shelling and tank offensives, devastating urban centers and historic landmarks. "
-            "Mass civilian displacement followed as Croatian populations fled Serb-occupied towns, while ethnic Serbs fled Croat-held areas in fear of reprisals. "
-            "The humanitarian situation rapidly deteriorated, with makeshift refugee camps emerging across Croatia and neighboring countries. "
-            "Efforts by the European Community to mediate the conflict largely failed, and full-scale war appeared inevitable."
+            "With the JNA ostensibly acting to preserve Yugoslav unity, full-scale warfare broke out in Croatia. "
+            "Major cities like Osijek, Karlovac, and Dubrovnik came under siege, and historic town centers were reduced to rubble. "
+            "The JNA’s actions, far from maintaining federal neutrality, revealed its increasing alignment with Serbian national objectives. "
+            "Civilians bore the brunt of the violence, as both Croats and Serbs were displaced from contested regions. "
+            "International observers condemned the destruction but failed to coordinate a meaningful intervention. "
+            "By August, war had fully engulfed the republic."
         ),
 
         html.H5("August 25, 1991 — Beginning of the Siege of Vukovar"),
         html.P(
-            "On August 25, 1991, the multiethnic city of Vukovar came under siege by Serb forces in what would become one of the most infamous battles of the Croatian War. "
-            "For 87 days, Vukovar's defenders, including both soldiers and civilians, endured relentless shelling, sniper attacks, and supply blockades. "
-            "Medical facilities collapsed under the strain, with surgeries performed by flashlight and patients dying for lack of basic supplies. "
-            "Tens of thousands of civilians sought refuge in basements, surviving on dwindling food supplies. "
-            "The siege symbolized both Croatian resistance and the extreme suffering faced by civilians trapped by war."
+            "The city of Vukovar, located near the Serbian border, came under siege by Serb and JNA forces starting in late August. "
+            "A symbol of multiethnic coexistence, Vukovar became a frontline battleground where Croatian National Guard units and civilians mounted an unexpectedly fierce defense. "
+            "For nearly three months, the city endured sustained shelling, shortages of medical supplies, and widespread infrastructural collapse. "
+            "Despite overwhelming odds, defenders held out in a battle that became a national rallying point. "
+            "The siege of Vukovar not only foreshadowed the brutal urban warfare to come, but also the widespread targeting of civilian populations."
         ),
 
         html.H5("November 18, 1991 — Fall of Vukovar and Ovčara Massacre"),
         html.P(
-            "After months of heroic resistance, Vukovar fell to Serb forces, leading to one of the war’s worst atrocities. "
-            "At Ovčara farm, approximately 260 wounded prisoners and civilians were executed and buried in mass graves. "
-            "Thousands more were forcibly expelled from the region, their homes looted and torched. "
-            "News of the massacre shocked international audiences but failed to provoke direct intervention. "
-            "Vukovar’s destruction became a grim icon of the human cost of Yugoslavia’s collapse."
+            "After 87 days of siege, Vukovar fell to Serb forces. "
+            "In its immediate aftermath, approximately 260 civilians and wounded soldiers were removed from the local hospital and executed at Ovčara farm. "
+            "The massacre, carried out in violation of international law, became one of the war’s defining atrocities. "
+            "Thousands of residents were expelled, and the city itself was virtually annihilated. "
+            "Though well-documented, the international community’s failure to act reinforced a pattern of delayed and inadequate responses to crimes against civilians."
         ),
 
         html.H5("December 1991–January 1992 — Ethnic Cleansing and UN Intervention"),
         html.P(
-            "In the aftermath of Vukovar, ethnic cleansing campaigns intensified across Serb-controlled areas, particularly in Krajina and Eastern Slavonia. "
-            "Croat civilians were forcibly evicted, and Serb militias destroyed entire villages to erase Croatian cultural presence. "
-            "International pressure mounted, culminating in the UN-brokered Sarajevo Agreement in early 1992. "
-            "United Nations Protection Forces (UNPROFOR) were deployed to maintain ceasefire lines, but they lacked the mandate to reverse ethnic cleansing. "
-            "By winter's end, over half a million Croatians remained displaced inside and outside of Croatia."
+            "Following military advances, Serb paramilitary groups implemented widespread campaigns of ethnic cleansing in Eastern Slavonia and Krajina. "
+            "Villages were systematically emptied of Croat inhabitants, churches and cultural sites were destroyed, and entire communities were uprooted. "
+            "The international community, now aware of the scale of displacement, pushed for a ceasefire. "
+            "The Sarajevo Agreement, brokered by the UN in early 1992, led to the deployment of the United Nations Protection Force (UNPROFOR). "
+            "However, the peacekeeping force lacked a mandate to reverse ethnic expulsions or prosecute war crimes, leaving hundreds of thousands of Croats displaced indefinitely."
         ),
     ]),
 
@@ -135,56 +137,56 @@ period_timelines = {
 
         html.H5("March 1, 1992 — Bosnia's Independence Referendum and Descent into War"),
         html.P(
-            "Bosnia and Herzegovina’s independence referendum, held on March 1, 1992, passed overwhelmingly despite a boycott by most Bosnian Serbs. "
-            "Immediately afterward, Bosnian Serb forces, with heavy support from the Yugoslav Army, launched attacks to seize territory for an envisioned Serb state. "
-            "Sarajevo descended into chaos, with snipers firing on civilians and ethnic enclaves solidifying within neighborhoods. "
-            "Tensions that had simmered for months erupted into open violence as communities splintered along ethnic lines. "
-            "Within weeks, tens of thousands of civilians had been displaced, and the conflict expanded rapidly."
+            "The independence referendum held in Bosnia and Herzegovina was a watershed moment. "
+            "While Bosniaks and Croats overwhelmingly voted in favor, the boycott by Bosnian Serbs underscored a deepening political divide. "
+            "Soon after, Bosnian Serb forces, backed by the Yugoslav Army, launched military operations to claim large swaths of territory. "
+            "Communities that had coexisted for decades rapidly collapsed into hostility, and within weeks, violence had engulfed the country. "
+            "Civilian displacement accelerated, as the rhetoric of ethnic protectionism translated into sieges, expulsions, and armed confrontation."
         ),
 
         html.H5("April 1992 — Siege of Sarajevo"),
         html.P(
-            "In April 1992, Serb forces encircled Sarajevo, initiating what would become the longest siege in modern history, lasting nearly four years. "
-            "Artillery, mortars, and snipers rained terror upon the city’s trapped population, killing civilians indiscriminately. "
-            "Water, electricity, and medical supplies became luxuries, and families lived in basements for months at a time. "
-            "Aid convoys struggled to penetrate the blockade, and black markets flourished as desperation took hold. "
-            "Sarajevo’s ordeal epitomized the civilian suffering that characterized the Bosnian War."
+            "In April 1992, Sarajevo was encircled by Serb forces, beginning what would become the longest siege in modern European history. "
+            "Over the next four years, its residents endured relentless shelling and sniper fire, with hospitals, schools, and markets routinely targeted. "
+            "Utilities were cut, and thousands of civilians perished in what became a grim showcase of urban warfare. "
+            "Despite extensive media coverage and international condemnation, meaningful intervention remained elusive. "
+            "Sarajevo came to symbolize not only suffering and survival but also the failure of the global order to protect civilian populations."
         ),
 
         html.H5("May–August 1992 — Ethnic Cleansing in Eastern Bosnia"),
         html.P(
-            "Throughout the summer of 1992, Serb forces systematically cleansed eastern Bosnia of its Bosniak and Croat populations. "
-            "Towns like Višegrad, Foča, and Prijedor witnessed mass executions, sexual violence, and the establishment of infamous detention camps. "
-            "Men and boys disappeared into camps where torture and murder were routine, while women faced sexual slavery. "
-            "Entire communities were obliterated, their mosques and homes reduced to rubble. "
-            "International observers documented the atrocities, but effective intervention remained elusive."
+            "Throughout the spring and summer, Serb forces launched systematic campaigns of ethnic cleansing in towns such as Prijedor, Višegrad, and Foča. "
+            "Entire communities of Bosniaks and Croats were forcibly expelled, detained, or executed. "
+            "Detention centers like Omarska and Trnopolje became notorious for torture and extrajudicial killings. "
+            "Religious and cultural heritage sites were destroyed as part of a campaign to erase non-Serb presence. "
+            "Though well documented by journalists and human rights groups, these actions provoked little more than symbolic outrage from the international community."
         ),
 
         html.H5("1993–1994 — UN 'Safe Areas' and Humanitarian Failures"),
         html.P(
-            "Facing mounting evidence of ethnic cleansing, the UN established 'safe areas' intended to shelter civilians from attack. "
-            "However, these enclaves, such as Srebrenica and Goražde, were under-supplied and weakly defended. "
-            "Instead of protecting civilians, the zones often served as targets for further aggression. "
-            "Aid deliveries were sporadic, and living conditions in the enclaves deteriorated into near-famine conditions. "
-            "International credibility suffered as promises of protection repeatedly proved hollow."
+            "The creation of UN-designated 'safe areas' like Srebrenica, Žuepa, and Goražde was a response to growing evidence of ethnic cleansing. "
+            "These zones were intended to offer protection to displaced civilians, but lacked adequate supplies and military enforcement. "
+            "In practice, they became vulnerable enclaves where residents lived in precarious conditions under siege. "
+            "UN peacekeepers, bound by restrictive mandates, were unable to intervene effectively. "
+            "The illusion of safety these areas provided ultimately proved catastrophic."
         ),
 
         html.H5("July 1995 — Fall of Srebrenica"),
         html.P(
-            "In July 1995, Serb forces overran the UN-protected town of Srebrenica, committing the single worst atrocity of the Bosnian War. "
-            "Over 8,000 Bosniak men and boys were executed in mass killings organized with chilling efficiency. "
-            "Women and children were forcibly deported, while Dutch peacekeepers stationed in the town stood by, powerless. "
-            "The massacre shocked the world and provided irrefutable evidence of genocide. "
-            "It would become the subject of international war crimes prosecutions and memorials for decades to come."
+            "In July 1995, Bosnian Serb forces led by Ratko Mladić captured the UN-protected enclave of Srebrenica. "
+            "Over the course of several days, more than 8,000 Bosniak men and boys were systematically executed. "
+            "The killings occurred under the watch of UN peacekeepers, who were outnumbered and unempowered to act. "
+            "The massacre became the largest atrocity in Europe since World War II and was later classified as genocide. "
+            "It stands as a defining indictment of international inaction."
         ),
 
         html.H5("August–December 1995 — NATO Intervention and Dayton Agreement"),
         html.P(
-            "Following the horror of Srebrenica and renewed shelling of Sarajevo, NATO launched Operation Deliberate Force. "
-            "Relentless airstrikes crippled Serb military infrastructure, shifting the balance of power. "
-            "Croatian military offensives further pressured Serb forces on the ground. "
-            "Peace talks held at Wright-Patterson Air Force Base in Dayton, Ohio, brokered a fragile peace agreement. "
-            "While the Dayton Accords ended active fighting, they cemented ethnic divisions and left millions displaced from their former homes."
+            "Following renewed attacks on civilians and mounting international pressure, NATO launched Operation Deliberate Force in August 1995. "
+            "Airstrikes targeted Bosnian Serb positions, while coordinated ground offensives by Croat and Bosnian forces altered territorial control. "
+            "These developments paved the way for peace talks at Wright-Patterson Air Force Base in Dayton, Ohio. "
+            "The Dayton Accords, signed in December, ended the war but entrenched ethnic divisions through a complex power-sharing arrangement. "
+            "Though the fighting ceased, many of the displaced remained unable or unwilling to return to their pre-war homes."
         ),
     ]),
 
@@ -193,47 +195,42 @@ period_timelines = {
 
         html.H5("February 28, 1998 — Kosovo Liberation Army (KLA) Attacks Spark Crackdown"),
         html.P(
-            "On February 28, 1998, the Kosovo Liberation Army (KLA) launched attacks against Serbian police forces in Kosovo, demanding independence for Kosovo’s ethnic Albanian majority. "
-            "In response, Serbian authorities began widespread retaliatory operations, targeting not just militants but entire villages. "
-            "Civilians were subjected to massacres, forced evictions, and systematic destruction of property. "
-            "Many fled into forests, surviving in precarious conditions as international observers documented growing abuses. "
-            "Despite mounting evidence, diplomatic efforts to prevent a broader conflict repeatedly stalled."
+            "Amid growing frustrations over Serbian repression, the Kosovo Liberation Army initiated armed attacks against police and state officials. "
+            "The Serbian government responded with overwhelming force, targeting not only militants but entire villages suspected of harboring insurgents. "
+            "Civilians quickly became the primary victims, as indiscriminate violence and mass arrests swept the region. "
+            "The conflict signaled the collapse of peaceful efforts to resolve Kosovo’s status within Yugoslavia."
         ),
 
         html.H5("Summer–Fall 1998 — Mass Displacement in the Drenica Valley"),
         html.P(
-            "Throughout the summer and fall of 1998, Serbian offensives devastated ethnic Albanian strongholds, particularly in the Drenica Valley. "
-            "Villages were razed, civilians fled en masse, and humanitarian access was severely restricted. "
-            "Families endured months in makeshift camps without reliable food, water, or medical care. "
-            "Journalists and human rights groups highlighted the humanitarian catastrophe, but international military action remained elusive. "
-            "As winter approached, hundreds of thousands faced starvation and exposure."
+            "Serbian offensives in the Drenica Valley and surrounding areas led to widespread destruction of ethnic Albanian settlements. "
+            "Entire communities fled into the hills or crossed borders seeking refuge, often with no access to shelter or humanitarian assistance. "
+            "International monitors documented clear patterns of forced displacement and the obstruction of relief efforts. "
+            "Despite warnings, no decisive intervention materialized, and winter approached with hundreds of thousands in crisis."
         ),
 
         html.H5("January 15, 1999 — Račak Massacre"),
         html.P(
-            "The discovery of 45 Albanian civilians executed at Račak on January 15, 1999, served as a turning point in the Kosovo conflict. "
-            "Western monitors, including William Walker of the OSCE, declared the killings a massacre, igniting global outrage. "
-            "Serbian authorities denied wrongdoing, insisting the dead were KLA fighters, but forensic evidence contradicted these claims. "
-            "The Račak Massacre shattered any remaining hopes for negotiated peace. "
-            "Talks at Rambouillet soon collapsed, paving the way for NATO intervention."
+            "In January, the discovery of dozens of executed ethnic Albanians in the village of Račak shocked international observers. "
+            "The OSCE labeled the killings a massacre, while Serbian officials claimed they were fallen militants. "
+            "The event shattered any remaining diplomatic momentum and hardened Western resolve. "
+            "Peace talks at Rambouillet failed within weeks, as Yugoslavia refused terms involving foreign troop deployment."
         ),
 
         html.H5("March 24, 1999 — NATO Bombing Campaign"),
         html.P(
-            "NATO launched an air campaign against Yugoslavia on March 24, 1999, aimed at halting Serbian atrocities in Kosovo. "
-            "In retaliation, Serbian forces intensified ethnic cleansing efforts, expelling nearly a million Albanians within weeks. "
-            "Entire villages were burned, civilians were separated and executed, and refugees crowded into overloaded camps in Albania and Macedonia. "
-            "The sheer scale of human suffering galvanized world opinion. "
-            "Despite criticisms of collateral damage, NATO remained resolute, extending the bombing campaign for 78 days."
+            "With diplomacy exhausted, NATO launched a 78-day bombing campaign against Yugoslav military and infrastructure targets."
+            "Serbian forces retaliated by accelerating their expulsion of Albanians from Kosovo, executing civilians and razing entire villages. "
+            "An estimated 850,000 people were displaced in a matter of weeks. "
+            "While controversial, the intervention was justified by NATO as necessary to prevent further atrocities."
         ),
 
         html.H5("June 1999 — Serbian Withdrawal and Humanitarian Aftermath"),
         html.P(
-            "On June 10, 1999, after weeks of relentless NATO airstrikes and growing political pressure, Serbian forces agreed to withdraw from Kosovo. "
-            "NATO-led KFOR troops moved in to stabilize the region and facilitate the return of hundreds of thousands of Albanian refugees. "
-            "Returning families found their villages destroyed and their homes looted. "
-            "Meanwhile, revenge attacks by Albanians against Serbs and Roma triggered a new wave of displacement. "
-            "Though Kosovo would declare independence in 2008, ethnic tensions and unresolved grievances continue to haunt the region today."
+            "Under sustained military and political pressure, Serbian forces withdrew from Kosovo in June. "
+            "NATO-led KFOR troops entered to restore order and facilitate refugee returns. "
+            "However, revenge attacks against Serbs and Roma ensued, creating a second wave of displacement. "
+            "Though Kosovo declared independence in 2008, its postwar period has remained marked by ethnic tensions and fragile institutions."
         ),
     ])
 }
@@ -464,5 +461,5 @@ if __name__ == "__main__":
     app.run(debug=False, host="0.0.0.0", port=10000)
 
 #if __name__ == "__main__":
-#    app.run(debug=True)
+ #   app.run(debug=True)
 
