@@ -38,15 +38,18 @@ Then open your browser at `http://127.0.0.1:8050/`.
 ## Project Structure
 
 ```
-.
-├── app.py
-├── maps/
+Displacement-in-Yugoslav-Wars-Mapping/
+│
+├── app.py                         # Main Dash application
+├── MapGeneration.ipynb            # Notebook for preprocessing & map generation
+├── maps/                          # Pre-generated HTML maps
 │   ├── displacement_map_1991_1992.html
 │   ├── displacement_map_1992_1995.html
 │   └── displacement_map_1998_1999.html
-├── Yugoslav War Data.csv
-├── requirements.txt
-└── README.md
+├── Yugoslav War Data.csv          # CSV of refugee/displacement flows
+├── requirements.txt               # Python dependencies
+└── README.md                      # This file
+
 ```
 
 - **app.py**: Main Dash application code.
